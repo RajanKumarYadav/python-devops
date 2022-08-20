@@ -38,6 +38,3 @@ jobs:
         password: ${{ secrets.DOCKER_PASSWORD }}
         repositiory: rajan0770/devopswithpy
         tag_with_ref: true
-      
-      
-            
